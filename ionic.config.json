@@ -1,0 +1,7 @@
+{
+  "name": "GMRS-Chat",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
